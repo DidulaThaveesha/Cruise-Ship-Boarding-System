@@ -1,0 +1,12 @@
+cabin0:Empty
+cabin1:thaveesha
+cabin2:Empty
+cabin3:Empty
+cabin4:Empty
+cabin5:Empty
+cabin6:Empty
+cabin7:Empty
+cabin8:Empty
+cabin9:Empty
+cabin10:Empty
+cabin11:Empty
